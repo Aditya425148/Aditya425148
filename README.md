@@ -14,7 +14,19 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blue?style=for-the-badge&logo=bootstrap&logoColor=white)
 <h3><img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTQzMDIsIm5iZiI6MTc0NzMxNDAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEzMDAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0ODBlMDY2OTliN2YyYzBlMmQzZTVjYjc2YTY3ZjBhOGE0NWRhZTc2OGQwYjU0Zjc2MDEyNjZmNDk0NTcwNmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oS4IBJxsfkFXGfzhOf4quSHzWGAkWaVHfTX65e71U9U" alt="Tech" height="26" style=vertical-align: middle;> IDEs & Editors </h3>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)![IDLE](https://img.shields.io/badge/Editor-IDLE-blue?style=for-the-badge)
+
+<details>
+  <summary>📊 My Stats</summary>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya425148&layout=compact&theme=tokyonight&hide_border=false)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya425148&theme=tokyonight&hide_border=false)
+
+  ![Snake animation](https://github.com/Aditya425148/Aditya425148/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
