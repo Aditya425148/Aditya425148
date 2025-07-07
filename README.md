@@ -27,7 +27,9 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
 
 </details>
 
-<h2> <img src="https://pin.it/5sz1Ai8hI" alt="Fire" height="25" style=vertical-align: middle;> Connect with me </h2>
+<h2> <img src="![image](https://github.com/user-attachments/assets/932b23cf-a17a-417a-9a35-67af7bfc85e9)
+
+" alt="Fire" height="25" style=vertical-align: middle;> Connect with me </h2>
 
 
 <div align="center">
