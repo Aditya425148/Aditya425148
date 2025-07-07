@@ -21,15 +21,13 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya425148&layout=compact&theme=tokyonight&hide_border=false)
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya425148&theme=tokyonight&hide_border=false)
-
  [![GitHub Streak](https://github-streak-stats-gamma.vercel.app?user=Aditya425148&theme=radical)](https://git.io/streak-stats)
   
  [![Aditya425148's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya425148&theme=github-compact)](https://github.com/Aditya425148/github-readme-activity-graph)
 
 </details>
 
-<h2> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Fire" height="25" style=vertical-align: middle;> Connect with me </h2>
+<h2> <img src="https://pin.it/5sz1Ai8hI" alt="Fire" height="25" style=vertical-align: middle;> Connect with me </h2>
 
 
 <div align="center">
