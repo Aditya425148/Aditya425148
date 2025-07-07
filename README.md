@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans-serif&pause=1000&width=435&lines=Hi!+I+am+Aditya+Raghuvanshi;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+
 Hi there! I'm Aditya Raghuvanshi, a Computer Science undergraduate at SRM University, specializing in Artificial Intelligence and Machine Learning. I'm passionate about building tech that solves real-world problems — from smart web apps to intelligent systems.
 <!--
 **Aditya425148/Aditya425148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
