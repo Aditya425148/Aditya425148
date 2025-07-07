@@ -31,7 +31,8 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
 
 <p align="center">
 
-  [![Connect with me](https://media.giphy.com/media/XXXXXX/giphy.gif)](https://your-profile-link.com)
+  [![Connect with me](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif
+)](https://your-profile-link.com)
 
 </p>
 
