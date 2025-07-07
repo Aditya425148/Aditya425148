@@ -27,14 +27,10 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
   
  [![Aditya425148's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya425148&theme=github-compact)](https://github.com/Aditya425148/github-readme-activity-graph)
 
+</details>
+
 <h2> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Fire" height="25" style=vertical-align: middle;> Connect with me </h2>
 
-<p align="center">
-
-  [![Connect with me](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif
-)](https://your-profile-link.com)
-
-</p>
 
 <div align="center">
   <a href="mailto:pradeepto.home@gmail.com">
