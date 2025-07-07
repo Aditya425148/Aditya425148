@@ -33,16 +33,16 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
 
 
 <div align="center">
-  <a href="mailto:pradeepto.home@gmail.com">
+  <a href="mailto:aadi100right@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-CCCCCC?style=for-the-badge&logo=Gmail&logoColor=black" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/pradeeptopal/">
+  <a href="https://www.linkedin.com/in/aditya-raghuvanshi-b7161329a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com/users/707503002440957963">
+  <a href="https://discord.com/channels/@Thunder4256">
       <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://x.com/KyogrePerseus">
+  <a href="https://x.com/Adityathakur425">
       <img src="https://img.shields.io/badge/X-171717?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
   </a>
 
