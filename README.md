@@ -22,7 +22,7 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
 <details>
   <summary>📊 My Stats</summary>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PerseusKyogre09&layout=compact&theme=tokyonight&hide_border=false)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya425148&layout=compact&theme=tokyonight&hide_border=false)
 
  [![GitHub Streak](https://github-streak-stats-gamma.vercel.app?user=Aditya425148&theme=radical)](https://git.io/streak-stats)
   
