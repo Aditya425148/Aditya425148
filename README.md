@@ -27,7 +27,7 @@ I am a Computer Science undergraduate at SRM University, specializing in Artific
 <h2 align="center">🚀 Explore My Portfolio</h2>
 
 <p align="center">
-  <a href="https://portfolio-3i3r-p9qoxssa6-aditya-s-projects-f8b20288.vercel.app/" target="_blank">
+  <a href="https://portfolio-3i3r.vercel.app/" target="_blank">
     <img 
       src="https://img.shields.io/badge/PORTFOLIO-Visit%20Now-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio Link"
